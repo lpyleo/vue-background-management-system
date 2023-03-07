@@ -1,0 +1,4 @@
+/* windicss 的公共样式 */
+.text_active {
+    @apply text-blue-600 active:text-blue-400 hover:text-blue-700 cursor-pointer
+}
